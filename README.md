@@ -2,8 +2,6 @@
 
 ### The clone version of AIRBNB booking website 
 
-#### App based on using OpenAI DALL-E, MongoDB, Cloudinary, Render
-
 #### [MongoDB](https://www.mongodb.com/) 
 
 The developer data platform that provides the services and tools <br> 
