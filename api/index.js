@@ -22,7 +22,7 @@ app.use(cookieParser());
 app.use('/uploads', express.static(__dirname + '/uploads'));
 app.use(cors({
   credentials: true,
-  origin: 'airbnb-omega-three.vercel.app',
+  origin: 'airbnb-second.vercel.app',
 }));
 
 mongoose.set('strictQuery', true)
