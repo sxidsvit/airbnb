@@ -12,6 +12,7 @@ export default function LoginPage() {
     ev.preventDefault();
     try {
       const { data } = await axios.post('/login', { email, password });
+      console.log('axios.post(' / login' - data: ', data);
       setUser(data);
       if (data !== 'not found')
         alert('Login successful');
